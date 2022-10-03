@@ -8,6 +8,6 @@ class AccountTest {
 
     @Test
     public void testAccount() throws Exception{
-        Account account = new Account();
+        Account account = new Account(10000);
     }
 }
