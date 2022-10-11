@@ -12,10 +12,10 @@ public class Account {
     }
 
     public void deposit(int money) {
-        // TODO Auto-generated method stub
+        this.balance += money;
     }
 
     public void withdraw(int money) {
-        // TODO Auto-generated method stub
+        this.balance -= money;
     }
 }
