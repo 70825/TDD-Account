@@ -10,4 +10,12 @@ public class Account {
     public int getBalance() {
         return this.balance;
     }
+
+    public void deposit(int money) {
+        // TODO Auto-generated method stub
+    }
+
+    public void withdraw(int money) {
+        // TODO Auto-generated method stub
+    }
 }
